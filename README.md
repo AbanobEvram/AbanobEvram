@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am a **third-year Electronics and Communications
 ## 🔍 **About Me**  
 - 🎓 **Vice Head of IEEE Fayoum University** and **Digital Design Team**  
 - 📚 Skilled in **SystemVerilog**, **UVM**, and RTL design  
-- 🛠 Actively building my expertise in **digital design verification** and **formal verification**  
+- 🛠 Actively building my expertise in **digital design** and **digital verification**  
 - 💡 Always eager to learn, collaborate, and contribute to open-source projects.  
  
 
