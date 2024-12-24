@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I am a **third-year Electronics and Communications
 
 ## 💼 **Technologies & Tools**  
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/-SystemVerilog-007ACC?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/-UVM-6E6E6E?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/-Verilog-007ACC?style=flat-square&logoColor=white" />
