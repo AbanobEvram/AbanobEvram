@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Abanob Evram**  
 
-Welcome to my GitHub profile! I am a **third-year Electronics and Communications Engineering student** with a passion for **digital design, verification, and FPGA development**.  
+Welcome to my GitHub profile! I am a **Senior Electronics and Communications Engineering student** with a passion for **digital design, verification, and FPGA development**.  
 
 <p align="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHA5bmN5NDBocTM0cDIyMHpxcmYybXVkbmNmbXl5MHhieW9rZGdhZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="300px" alt="Hello Gif">
